@@ -139,4 +139,4 @@ Output JSON akan selalu dikembalikan dalam **satu baris** agar lebih ringkas.
 
 ## Lisensi
 
-MIT License
+Project ini bersifat open-source. Silakan digunakan dan dikembangkan sesuai kebutuhan.
