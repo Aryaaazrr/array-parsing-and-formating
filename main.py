@@ -18,7 +18,7 @@ def reformat_data(data):
         })
     return result
 
-@app.route("/reformat", methods=["POST"])
+@app.route("/api/category", methods=["POST"])
 def reformat_endpoint():
     if not request.is_json:
         return jsonify({"error": "Request must be JSON"}), 400
