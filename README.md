@@ -67,7 +67,7 @@ Contoh output:
 
 1. Clone repository ini
    ```bash
-   git clone https://github.com/username/array-parsing-and-formating.git
+   git clone https://github.com/Aryaaazrr/array-parsing-and-formating.git
    cd array-parsing-and-formating
    ```
 2. Install dependency
